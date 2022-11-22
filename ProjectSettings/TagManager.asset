@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OutOfMap
+  - Doors
+  - Weapons
+  - Ale
+  - Mutton
+  - Column
+  - Chandelier
+  - EnemiZone
+  - EnemiAttack
+  - Ennemi
+  - EnnemiWeapon
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - MovingPlat
+  - Water
+  - UI
+  - Ground
+  - GroundButNotSafe
+  - WeaponsThrow
+  - Player
+  - OutOfMap
+  - Ennemie
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2761035677
+    locked: 0
+  - name: Ground
+    uniqueID: 3769818625
+    locked: 0
+  - name: Player
+    uniqueID: 1973927179
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Collectible
+    uniqueID: 1167569977
+    locked: 0
