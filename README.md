@@ -1,4 +1,4 @@
-# Platformer2D_3wa
+# Viking Platformer Game
  Viking Platformer 
  
  Itch.io :
